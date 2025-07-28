@@ -1,7 +1,6 @@
 /*
  * Proyecto: Algoritmo de Dijkstra en un Grafo Dirigido
  * Descripción: Calcula la distancia más corta desde un nodo origen hacia los demás nodos del grafo.
- * Autor: HP (o sea, tú 😎)
  */
 package grafodirigido;
 
